@@ -1,8 +1,8 @@
 Icaro Cauã👋
 
 
-- 👨‍💻 Trainee at IAtec
-- 🎓 Computer Engineering Student
+- 👨‍💻 Analista de Qualidade
+- 🎓 ADS
 - 🏀 Basketball
 
 <div align="left">
